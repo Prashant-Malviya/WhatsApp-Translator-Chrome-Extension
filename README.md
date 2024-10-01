@@ -1,0 +1,1 @@
+# WhatsApp-Translator-Chrome-Extension
